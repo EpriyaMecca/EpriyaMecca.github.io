@@ -1,0 +1,23 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+}
+.info-text {
+  color: white;
+  font-weight: bolder;
+  font-family: "Montserrat", sans-serif;
+  font-size: larger;
+}
+.info-name {
+  color: #444440;
+  font-size: 32px;
+}
+.info-card {
+  background-color: #444440;
+}
+.nama {
+  font-size: 90px;
+}
+.nama1 {
+  font-size: 70px;
+}
